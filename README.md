@@ -1,14 +1,13 @@
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# Bienvenido a mi perfil, soy Diego Prieto 🚀
+# Hola, soy Diego Prieto 🚀
 
 ## Acerca de mí
 ¡Hola! Soy Diego, tengo 22 años y mi formación académica está en las áreas de matemáticas y física. Tras concluir mis estudios, descubrí que mi verdadera pasión reside en el ajedrez, un mundo que me ofrece desafíos constantes y una profunda satisfacción.
@@ -29,5 +28,5 @@ Te invito a explorar mi canal de YouTube, [MateMentor](https://www.youtube.com/c
 
 ¡Espero verte pronto y compartir nuestra pasión por el ajedrez!
 
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MateMent0r&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MateMent0r)](https://git.io/streak-stats)
 
